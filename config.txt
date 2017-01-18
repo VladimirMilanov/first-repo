@@ -1,4 +1,4 @@
 name= Vladimir
 size=100
 email=vladi_milanov@abv.bg 
-age=40
+age=40;
